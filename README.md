@@ -80,13 +80,16 @@ Built for **Technical Web Development (WEB-02)**.
 
 ### 1. Clone & Install Dependencies
 
-From the project root directory, install both backend and frontend dependencies in one command:
-
 ```bash
+# Clone the repository
+git clone https://github.com/devanupriyj-code/aws.git
+cd aws
+
+# Install all backend and frontend dependencies in one command
 npm run install:all
 ```
 
-*(Or manually run `npm install` in the root folder, and `npm install` inside the `client/` folder).*
+*(Alternatively, run `npm install` in the root folder, and `npm install` inside the `client/` folder).*
 
 ---
 
